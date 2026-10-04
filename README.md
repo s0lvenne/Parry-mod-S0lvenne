@@ -12,6 +12,6 @@
 
 | Component | Version |
 |:--|:--|
-| **Minecraft** | `1.20.1`, `1.12.2`|
+| **Minecraft** | `1.20.1`|
 | **Forge** | `47.x.x` |
 | **Java** | `17` |
